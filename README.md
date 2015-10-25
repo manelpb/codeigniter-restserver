@@ -1,4 +1,4 @@
-# CodeIgniter Rest Server
+# CodeIgniter Rest Server with same origin policy fixed
 
 A fully RESTful server implementation for CodeIgniter using one library, one
 config file and one controller.
